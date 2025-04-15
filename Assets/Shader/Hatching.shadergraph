@@ -2012,8 +2012,8 @@
     "m_ObjectId": "4a59d8cb52c3440e80e3b7f4cfa66ef4",
     "m_Title": "Get ScreenSpace Hatching Value",
     "m_Position": {
-        "x": -1372.0001220703125,
-        "y": 366.0000305175781
+        "x": -1372.0,
+        "y": 366.0
     }
 }
 
@@ -2577,8 +2577,8 @@
     "m_ObjectId": "71a564550252495b8f06a28d98a00979",
     "m_Title": "Create an offset on a clock",
     "m_Position": {
-        "x": -2720.999755859375,
-        "y": 802.9999389648438
+        "x": -2721.0,
+        "y": 803.0
     }
 }
 
